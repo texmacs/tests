@@ -1,0 +1,3 @@
+[submodule "texmacs"]
+	path = texmacs
+	url = https://github.com/texmacs/texmacs.git
